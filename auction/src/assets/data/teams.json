@@ -1,0 +1,72 @@
+[
+    {
+        "teamID": 1,
+        "teamName": "Chennai Super Kings",
+        "teamShortCode": "CSK",
+        "img": "/images/teams/chennai-super-kings.png",
+        "paddle-img": "/images/teams-paddles/chennai-super-kings.png"
+    },
+    {
+        "teamID": 2,
+        "teamName": "Delhi Capitals",
+        "teamShortCode": "DC",
+        "img": "/images/teams/delhi-capitals.png",
+        "paddle-img": "/images/teams-paddles/delhi-capitals.png"
+    },
+    {
+        "teamID": 3,
+        "teamName": "Gujarat Titans",
+        "teamShortCode": "GT",
+        "img": "/images/teams/gujarat-titans.png",
+        "paddle-img": "/images/teams-paddles/gujarat-titans.png"
+    },
+    {
+        "teamID": 4,
+        "teamName": "Kolkata Knight Riders",
+        "teamShortCode": "KKR",
+        "img": "/images/teams/kolkata-knight-riders.png",
+        "paddle-img": "/images/teams-paddles/kolkata-knight-riders.png"
+    },
+    {
+        "teamID": 5,
+        "teamName": "Lucknow Super Giants",
+        "teamShortCode": "LSG",
+        "img": "/images/teams/lucknow-super-giants.png",
+        "paddle-img": "/images/teams-paddles/lucknow-super-giants.png"
+    },
+    {
+        "teamID": 6,
+        "teamName": "Mumbai Indians",
+        "teamShortCode": "MI",
+        "img": "/images/teams/mumbai-indians.png",
+        "paddle-img": "/images/teams-paddles/mumbai-indians.png"
+    },
+    {
+        "teamID": 7,
+        "teamName": "Punjab Kings",
+        "teamShortCode": "PBKS",
+        "img": "/images/teams/punjab-kings.png",
+        "paddle-img": "/images/teams-paddles/punjab-kings.png"
+    },
+    {
+        "teamID": 8,
+        "teamName": "Rajasthan Royals",
+        "teamShortCode": "RR",
+        "img": "/images/teams/rajasthan-royals.png",
+        "paddle-img": "/images/teams-paddles/rajasthan-royals.png"
+    },
+    {
+        "teamID": 9,
+        "teamName": "Royal Challengers Bangalore",
+        "teamShortCode": "RCB",
+        "img": "/images/teams/royal-challengers-bangalore.png",
+        "paddle-img": "/images/teams-paddles/royal-challengers-bangalore.png"
+    },
+    {
+        "teamID": 10,
+        "teamName": "Sunrisers Hyderabad",
+        "teamShortCode": "SRH",
+        "img": "/images/teams/sunrisers-hyderabad.png",
+        "paddle-img": "/images/teams-paddles/sunrisers-hyderabad.png"
+    }
+]
